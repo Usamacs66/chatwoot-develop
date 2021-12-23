@@ -1,0 +1,71 @@
+{
+  "COMPONENTS": {
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "Lataa",
+      "UPLOADING": "Lähetetään..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "Lähetä"
+    }
+  },
+  "TEAM_AVAILABILITY": {
+    "ONLINE": "Olemme paikalla",
+    "OFFLINE": "Olemme hetken poissa"
+  },
+  "REPLY_TIME": {
+    "IN_A_FEW_MINUTES": "Vastaa tyypillisesti muutamassa minuutissa",
+    "IN_A_FEW_HOURS": "Tyypillisesti vastaa muutaman tunnin kuluessa",
+    "IN_A_DAY": "Vastaa tyypillisesti päivässä"
+  },
+  "START_CONVERSATION": "Aloita keskustelu",
+  "START_NEW_CONVERSATION": "Aloita uusi keskustelu",
+  "UNREAD_VIEW": {
+    "VIEW_MESSAGES_BUTTON": "Näytä uudet viestit",
+    "CLOSE_MESSAGES_BUTTON": "Sulje",
+    "COMPANY_FROM": "yrityksessä",
+    "BOT": "Botti"
+  },
+  "BUBBLE": {
+    "LABEL": "Keskustele kanssamme"
+  },
+  "POWERED_BY": "Palvelun tarjoaa Chatwoot",
+  "EMAIL_PLACEHOLDER": "Ole hyvä ja syötä sähköpostiosoitteesi",
+  "CHAT_PLACEHOLDER": "Kirjoita viestisi",
+  "TODAY": "Tänään",
+  "YESTERDAY": "Eilen",
+  "PRE_CHAT_FORM": {
+    "FIELDS": {
+      "FULL_NAME": {
+        "LABEL": "Koko nimi",
+        "PLACEHOLDER": "Syötä koko nimesi",
+        "ERROR": "Koko nimi on pakollinen kenttä"
+      },
+      "EMAIL_ADDRESS": {
+        "LABEL": "Sähköpostiosoite",
+        "PLACEHOLDER": "Syötä sähköpostiosoite",
+        "ERROR": "Virheellinen sähköpostiosoite"
+      },
+      "MESSAGE": {
+        "LABEL": "Message",
+        "PLACEHOLDER": "Viestisi",
+        "ERROR": "Viesti on liian lyhyt"
+      }
+    }
+  },
+  "FILE_SIZE_LIMIT": "Tiedoston koko ylittää {MAXIMUM_FILE_UPLOAD_SIZE} maksimin",
+  "CHAT_FORM": {
+    "INVALID": {
+      "FIELD": "Virheellinen kenttä"
+    }
+  },
+  "CSAT": {
+    "TITLE": "Arvostele keskustelu",
+    "SUBMITTED_TITLE": "Kiitos arvostelustasi",
+    "PLACEHOLDER": "Kerro lisää"
+  },
+  "EMAIL_TRANSCRIPT": {
+    "BUTTON_TEXT": "Pyydä keskustelun kopiota",
+    "SEND_EMAIL_SUCCESS": "Chat-keskustelu on lähetetty onnistuneesti",
+    "SEND_EMAIL_ERROR": "Tapahtui virhe, yritä uudelleen"
+  }
+}
